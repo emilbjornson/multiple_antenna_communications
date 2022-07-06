@@ -2,7 +2,7 @@
 
 This repository contains the slides (in Powerpoint and PDF formats) for the course Multiple Antenna Communications, in the form it was given in Spring semester 2021.
 
-Video recordings of all the slides (with voice over by Emil Björnson) can be found on YouTube.
+Video recordings of all the slides (with voice over by Emil Björnson) can be found on YouTube: https://youtube.com/playlist?list=PLTv48TzNRhaJ66mW48MI_HBBawupV_ZR_
 
 
 <h3>List of background videos</h3>
